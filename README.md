@@ -7,4 +7,6 @@
 ## Technology
 	The non plus ultra technology of all time
 
-## Gimme da difftool
+## Copyright
+
+	Copyright by Devugees 2018
