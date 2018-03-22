@@ -9,4 +9,4 @@
 
 ## Copyright
 
-	Copyright by Devugees 2018
+	Copyright by Devugees 2018-2019
