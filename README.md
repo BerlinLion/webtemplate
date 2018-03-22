@@ -1,9 +1,8 @@
 # Starter Web 
+	Let's get started
 
 ## Introduction
+	Get in touch with us
 
 ## Technology
-
-## Change
-
-## New Change
+	The non plus ultra technology of all time
